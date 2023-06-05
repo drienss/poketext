@@ -548,7 +548,7 @@ while start == 0:
         primeiro = "CHARMANDER"
         start = 1
     elif primeiro == "2":
-        primeiro = "FROAKIE"
+        primeiro = "BULBASSAUR"
         start = 1
     elif primeiro == "3":
         primeiro = "SQUIRTLE"
